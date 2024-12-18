@@ -113,7 +113,18 @@
       "description": "enter your caption if you want to show on menu.",
       "required": true,
       "value": "POWERED BY SILENTLOVER432"
+    }, 
+    "STATUS_REPLY": {
+      "description": "enter your caption if you want to show on status reply.",
+      "required": true,
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "you can true or false it.",
+      "required": true,
+      "value": "true"
     }
+
 
 },
 

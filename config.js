@@ -9,6 +9,7 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "PJoHhYrb#jbrSjlH6mgUCvvVSiv7GNk5mnXyrNvAwmnTiUPn3NpA",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+    AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
@@ -24,5 +25,6 @@ module.exports = {
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
     BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂`",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
